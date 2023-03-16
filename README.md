@@ -8,6 +8,6 @@
 `3. Java` 
 
 Test for DSCI521 Lecture2 \
-Random typing to test conflict
+asjdkalsdaskdjlaskda
 
 
