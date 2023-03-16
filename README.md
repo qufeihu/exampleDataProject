@@ -8,6 +8,6 @@
 `3. Java` 
 
 Test for DSCI521 Lecture2 \
-Some Contents to test Git History 
+Some Contents to 1234 Git History 
 
 
