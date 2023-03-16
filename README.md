@@ -8,6 +8,6 @@
 `3. Java` 
 
 Test for DSCI521 Lecture2 \
-Some Contents to 1234 Git History 
+Random typing to test conflict
 
 
