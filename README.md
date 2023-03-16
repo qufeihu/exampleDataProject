@@ -7,7 +7,8 @@
 `2. SQL` \
 `3. Java` 
 
-Test for DSCI521 Lecture2 
-Random words for testing 
+Test for DSCI521 Lecture2 \
+Random words for testing conflicts
+>>>>>>> 6e0904d96b5e53ee193631a62cf5718c95ec34e7
 
 
